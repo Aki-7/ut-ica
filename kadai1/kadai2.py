@@ -1,5 +1,6 @@
 from matplotlib import pyplot as plot
 import numpy as np
+from scipy.io import wavfile as wav
 import sys
 
 def getMat(filename1,filename2):
